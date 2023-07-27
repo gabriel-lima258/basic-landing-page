@@ -2,7 +2,7 @@
 
 ![Web capture_29-4-2023_031_127 0 0 1](https://user-images.githubusercontent.com/116119327/235280672-66b4fab4-f61c-4e62-8c24-5a007fe37cb8.jpeg)
 
-<h1 align="center">Explorer - Landing page 1 - Stage 03</h1>
+<h1 align="center">Explorer - Landing page 1 - Stage 02</h1>
 
 <p align="center">
 O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação. <br/>
