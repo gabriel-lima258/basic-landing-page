@@ -48,7 +48,7 @@ Feito com ♥ by Gabriel :wave: [Participe da comunidade da RocketSeat!](https:/
 
 ![Screenshot 2023-04-29 000633](https://user-images.githubusercontent.com/116119327/235280740-7ddcf3a3-492d-4c5d-9522-d75655eba7bc.png)
 
-<h1 align="center">Explorer - Landing page 2 - Stage 03</h1>
+<h1 align="center">Explorer - Landing page 2</h1>
 
 <p align="center">
 O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação. <br/>
@@ -90,7 +90,7 @@ Esse projeto está sob a licença MIT.
 
 ![Screenshot 2023-04-29 000900](https://user-images.githubusercontent.com/116119327/235280786-72d7186e-e1ef-4839-a5bb-0ff1d2955960.png)
 
-<h1 align="center">Explorer - Landing page 3 - Stage 03</h1>
+<h1 align="center">Explorer - Landing page 3</h1>
 
 <p align="center">
 O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação. <br/>
